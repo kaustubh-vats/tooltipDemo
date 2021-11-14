@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tooltip Demo</string>
+    <string name="play">Play</string>
+    <string name="company_name">Company Name</string>
+    <string name="we_ve_updated_our_terms">We\'ve Updated Our Terms</string>
+    <string name="message_dialog">To Continue Playing, you need to confirm that you agree to our Terms of Service and have read our privacy Policy</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="accept">Accept</string>
+</resources>
